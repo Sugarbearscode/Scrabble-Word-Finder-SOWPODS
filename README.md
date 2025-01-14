@@ -5,6 +5,8 @@ you to search for scrabble words to confirm if they were valid.
 
 Simple and easy, just make sure you have javascript turned on in your web browser and it should work. 
 
+You only need the sowpods.html to make this work, the text file of all words is included for reference
+
 it will validate words between 2 and 15 characters in length
 it removes spaces if they are entered 
 Upper/lower case is ignored as well. 
